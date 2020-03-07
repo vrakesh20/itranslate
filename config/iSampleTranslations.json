@@ -1,0 +1,34 @@
+{
+   "translations":[
+      {
+         "english":"Home",
+         "spanish":"Casa",
+         "portuguese":"Casa",
+         "type":"text"
+      },
+      {
+         "english":"About Us",
+         "spanish":"Sobre nosotros",
+         "portuguese":"Sobre nós",
+         "type":"text"
+      },
+      {
+         "english":"Contact Us",
+         "spanish":"Contáctenos",
+         "portuguese":"Contate-Nos",
+         "type":"text"
+      },
+      {
+         "english":"Sample Page",
+         "spanish":"Página de Ejemplo",
+         "portuguese":"Página de exemplo",
+         "type":"text"
+      },
+      {
+         "english":"Let us see the magic of uTranslate",
+         "spanish":"Veamos la magia de uTranslate",
+         "portuguese":"Vamos ver a magia do uTranslate",
+         "type":"text"
+      }
+   ]
+}

@@ -1,0 +1,21 @@
+{
+   "languages":[
+      {
+         "languageCode":"english",
+         "languageDescription":"🇺🇸English"
+      },
+      {
+         "languageCode":"spanish",
+         "languageDescription":"🇪🇸Spanish"
+      },
+      {
+         "languageCode":"portuguese",
+         "languageDescription":"🇵🇹Portuguese"
+      }
+   ],
+   "enableLanguageSelectorOn":"nav > div",
+   "languageSelectorStyle":"float:right; padding-top:1em;",
+   "query":"a:not(.navbar-brand), h3, p",
+   "translateStore":"./config/iSampleTranslations.json",
+   "defaultLanguage":"english"
+}
